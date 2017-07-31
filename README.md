@@ -4,6 +4,7 @@
 
 ## 说明
 存放我使用SublimeText3开发工具的插件和用户设置的备份
+用户配置文件放在\AppData\Roaming\SublimeText3下
 
 ## License
 
