@@ -5,6 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
 		"HTML-CSS-JS Prettify",
 		"Laravel 5 Snippets",
 		"Package Control",

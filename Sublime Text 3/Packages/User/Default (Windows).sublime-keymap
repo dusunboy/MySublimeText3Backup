@@ -35,5 +35,14 @@
         "keys": ["ctrl+shift+f"],
         "command": "htmlprettify"
     },
+    {
+        "keys": ["ctrl+o"],
+        "command": "show_overlay",
+        "args":
+        {
+            "overlay": "goto",
+            "text": "@"
+        }
+    },
 
 ]

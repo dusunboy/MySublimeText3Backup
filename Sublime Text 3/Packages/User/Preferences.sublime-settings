@@ -4,5 +4,7 @@
 	[
 		"Vintage"
 	],
-	"save_on_focus_lost": true
+	"preview_on_click": true,
+	"save_on_focus_lost": true,
+	"word_wrap": false
 }
