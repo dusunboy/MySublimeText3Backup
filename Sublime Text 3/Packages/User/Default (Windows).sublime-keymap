@@ -5,4 +5,5 @@
 	{ "keys": ["ctrl+alt+down"], "command": "duplicate_line" },
 	{ "keys": ["ctrl+shift+c"], "command": "lower_case" },
 	{ "keys": ["ctrl+shift+x"], "command": "upper_case" },
+	{ "keys": ["f3"], "command": "goto_definition" },
 ]
