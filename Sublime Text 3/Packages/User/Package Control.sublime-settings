@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"HTML-CSS-JS Prettify",
 		"Laravel 5 Snippets",
 		"Package Control",
 		"SideBarEnhancements",
