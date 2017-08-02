@@ -16,7 +16,7 @@
                 "warnings": ""
             },
             "jshint": {
-                "@disable": true,
+                "@disable": false,
                 "args": [],
                 "excludes": []
             },
@@ -37,7 +37,9 @@
         "python_paths": {
             "linux": [],
             "osx": [],
-            "windows": ["D:\\xampp\\php\\php.exe"]
+            "windows": [
+                "D:\\xampp\\php\\php.exe"
+            ]
         },
         "rc_search_limit": 3,
         "shell_timeout": 10,
