@@ -6,7 +6,7 @@
 	],
 	"preview_on_click": true,
 	"save_on_focus_lost": true,
-	"theme": "Boxy Monokai.sublime-theme",
-	"word_wrap": false,
 	"tab_size": 2,
+	"theme": "Boxy Monokai.sublime-theme",
+	"word_wrap": false
 }
