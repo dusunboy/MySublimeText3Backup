@@ -5,16 +5,16 @@
 	],
 	"installed_packages":
 	[
+		"Boxy Theme",
 		"ColorPicker",
 		"DocBlockr",
 		"Emmet",
 		"HTML-CSS-JS Prettify",
+		"JavaScript Next Snippets",
 		"Laravel 5 Snippets",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-csslint",
-		"SublimeLinter-jshint",
 		"SublimeLinter-php",
 		"SublimeREPL",
 		"Vue Syntax Highlight"

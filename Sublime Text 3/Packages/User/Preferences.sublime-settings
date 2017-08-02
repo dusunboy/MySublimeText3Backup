@@ -1,10 +1,12 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"preview_on_click": true,
 	"save_on_focus_lost": true,
-	"word_wrap": false
+	"theme": "Boxy Monokai.sublime-theme",
+	"word_wrap": false,
+	"tab_size": 2,
 }

@@ -15,6 +15,11 @@
                 "ignore": "",
                 "warnings": ""
             },
+            "htmlhint": {
+                "@disable": false,
+                "args": [],
+                "excludes": ["blade.php"]
+            },
             "jshint": {
                 "@disable": false,
                 "args": [],
@@ -32,20 +37,21 @@
         "paths": {
             "linux": [],
             "osx": [],
-            "windows": []
+            "windows": [
+                "D:\\xampp\\php\\php.exe"
+            ]
         },
         "python_paths": {
             "linux": [],
             "osx": [],
-            "windows": [
-                "D:\\xampp\\php\\php.exe"
-            ]
+            "windows": []
         },
         "rc_search_limit": 3,
         "shell_timeout": 10,
         "show_errors_on_save": false,
         "show_marks_in_minimap": true,
         "syntax_map": {
+            "JavaScript (Babel)": "javascript",
             "html (django)": "html",
             "html (rails)": "html",
             "html 5": "html",
