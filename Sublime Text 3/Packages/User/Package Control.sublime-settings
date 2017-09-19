@@ -2,10 +2,11 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"0_package_control_loader",
+		"Package Control"
 	],
 	"installed_packages":
 	[
-		"Boxy Theme",
 		"ColorPicker",
 		"DocBlockr",
 		"Emmet",
