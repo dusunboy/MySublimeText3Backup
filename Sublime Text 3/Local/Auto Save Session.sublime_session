@@ -2,10 +2,11 @@
 	"folder_history":
 	[
 		"/D/Android/workspace/php",
+		"/D/Android/workspace/php/funLottery",
 		"/D/Android/workspace/WxMiniProgram"
 	],
 	"last_version": 3143,
-	"last_window_id": 32,
+	"last_window_id": 34,
 	"log_indexing": false,
 	"settings":
 	{
@@ -1133,7 +1134,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,2,-32000,-32000,-1,-1,688,150,150,806",
+			"position": "0,2,3,-32000,-32000,-1,-1,688,150,150,806",
 			"project": "",
 			"replace":
 			{
@@ -1181,6 +1182,558 @@
 			{
 			},
 			"window_id": 28,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"iss",
+						"isStart2FlightPayLoadQuery"
+					],
+					[
+						"ma",
+						"margin-top"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"tem",
+						"tempList"
+					],
+					[
+						"lis",
+						"queryList"
+					],
+					[
+						"seta",
+						"selectTab"
+					],
+					[
+						"tre",
+						"true"
+					],
+					[
+						"st",
+						"startFlightDate"
+					],
+					[
+						"bo",
+						"border"
+					],
+					[
+						"boboti",
+						"border-bottom-right-radius"
+					],
+					[
+						"boto",
+						"border-top-right-radius"
+					],
+					[
+						"bora",
+						"border-bottom-left-radius"
+					],
+					[
+						"boddr",
+						"border-top-left-radius"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"u",
+						"userName"
+					],
+					[
+						"fos",
+						"font-size"
+					],
+					[
+						"fol",
+						"float"
+					],
+					[
+						"ti",
+						"timeLeft"
+					],
+					[
+						"getti",
+						"getTimeLeft"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"w",
+						"weight"
+					],
+					[
+						"fle",
+						"flex-direction"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"de",
+						"departureAirport"
+					],
+					[
+						"dat",
+						"data"
+					],
+					[
+						"c",
+						"center"
+					],
+					[
+						"pa",
+						"padding-right"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"ali",
+						"align-items"
+					],
+					[
+						"js",
+						"justify-content"
+					],
+					[
+						"fons",
+						"font-size"
+					],
+					[
+						"sp",
+						"space-between"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"mat",
+						"margin-top"
+					],
+					[
+						"to",
+						"top"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"li",
+						"line-height"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"al",
+						"align-items"
+					],
+					[
+						"th",
+						"that"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"tea",
+						"text-anchor"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"in",
+						"instory"
+					],
+					[
+						"ex",
+						"exit"
+					],
+					[
+						"prin",
+						"print_r"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"cli",
+						"Client"
+					],
+					[
+						"pac",
+						"packageTotal"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/Android/workspace/php/funLottery/composer.lock",
+					"settings":
+					{
+						"buffer_size": 138891,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/Android/workspace/php/funLottery/routes/api.php",
+					"settings":
+					{
+						"buffer_size": 611,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 357.0,
+				"last_filter": "remo",
+				"selected_items":
+				[
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"wx",
+						"Set Syntax: WXML"
+					],
+					[
+						"wxa",
+						"wxapp -> Open Component Documentation"
+					],
+					[
+						"Package Control: lis",
+						"Package Control: List Packages"
+					],
+					[
+						"ter",
+						"Terminal: Open"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 398.0
+			},
+			"console":
+			{
+				"height": 154.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/Android/workspace/php",
+				"/D/Android/workspace/php/funLottery",
+				"/D/Android/workspace/php/funLottery/app",
+				"/D/Android/workspace/php/funLottery/app/Exceptions",
+				"/D/Android/workspace/php/funLottery/app/Http",
+				"/D/Android/workspace/php/funLottery/app/Http/Controllers",
+				"/D/Android/workspace/php/funLottery/app/Http/Controllers/Auth",
+				"/D/Android/workspace/php/funLottery/routes"
+			],
+			"file_history":
+			[
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadAdd/flightPayLoadAdd.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoad/flightPayLoad.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadAdd/flightPayLoadAdd.wxml",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoad/flightPayLoad.wxml",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/utils/airport.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/selectAirport/selectAirport.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/selectAirport/selectAirport.wxml",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadQuery/flightPayLoadQuery.wxml",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/home/home.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/index/index.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/home/home.wxml",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/app.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoad/flightPayLoad.wxss",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadAdd/flightPayLoadAdd.wxss",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/manifestTakePhoto/manifestTakePhoto.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadQuery/flightPayLoadQuery.wxss",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/home/home.wxss",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/待做任务.txt",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadQuery/flightPayLoadQuery.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/requests/request.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/requests/api.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/app.json",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/utils/util.js",
+				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/app.wxss",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/uldInwardAndOutwardPort/uldInwardAndOutwardPort.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/uldOperationManagement/uldOperationManagement.js",
+				"/D/Android/workspace/WxMiniProgram/huadong_del/pages/index/index.wxml",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadQuery/flightPayLoadQuery.json",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadAdd/flightPayLoadAdd.json",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoad/flightPayLoad.json",
+				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/pages/profile/profile.wxss",
+				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/pages/list/list.js",
+				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/pages/list/list.wxss",
+				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/待做任务.txt",
+				"/D/Android/workspace/WxMiniProgram/wx_shop/pages/shop/mall/mall.wxml",
+				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/pages/profile/profile.js",
+				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/pages/list/list.wxml",
+				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/app.json",
+				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/pages/index/index.js",
+				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/requests/request.js",
+				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/pages/profile/profile.wxml",
+				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/requests/api.js",
+				"/D/Android/workspace/WxMiniProgram/wx_shop/pages/shop/mall/mall.wxss",
+				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/pages/detail/detail.js",
+				"/D/Android/workspace/php/explore_ufo2/vendor/laravel/framework/src/Illuminate/Support/helpers.php",
+				"/D/Android/workspace/php/explore_ufo2/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php",
+				"/D/Android/workspace/php/explore_ufo2/app/Exceptions/Handler.php",
+				"/D/Android/workspace/php/explore_ufo2/config/auth.php",
+				"/D/Android/workspace/php/explore_ufo2/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+				"/D/Android/workspace/php/explore_ufo2/vendor/laravel/framework/src/Illuminate/Auth/AuthenticationException.php",
+				"/D/Android/workspace/php/explore_ufo2/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php",
+				"/D/Android/workspace/php/explore_ufo2/vendor/laravel/framework/src/Illuminate/Auth/Middleware/AuthenticateWithBasicAuth.php",
+				"/D/Android/workspace/php/explore_ufo2/vendor/laravel/framework/src/Illuminate/Routing/Redirector.php",
+				"/D/Android/workspace/php/explore_ufo2/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php",
+				"/D/Android/workspace/php/explore_ufo2/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Guard.php",
+				"/D/Android/workspace/php/explore_ufo2/app/Http/Middleware/RedirectIfAuthenticated.php",
+				"/D/Android/workspace/php/explore_ufo2/vendor/laravel/passport/src/RouteRegistrar.php",
+				"/D/Android/workspace/php/explore_ufo2/vendor/laravel/passport/src/Http/Controllers/ClientController.php"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"fo"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\Android\\workspace\\php"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/Android/workspace/php/funLottery/composer.lock",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 138891,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										135858,
+										135874
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 56047.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/Android/workspace/php/funLottery/routes/api.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 611,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										36,
+										36
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 42.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,638,100,100,756",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 258.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 34,
 			"workspace_name": ""
 		}
 	],
