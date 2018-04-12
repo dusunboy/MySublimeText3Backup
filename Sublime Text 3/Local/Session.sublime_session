@@ -1,11 +1,11 @@
 {
 	"folder_history":
 	[
-		"/D/Android/workspace/php",
-		"/D/Android/workspace/WxMiniProgram"
+		"/D/Android/workspace/WxMiniProgram",
+		"/D/Android/workspace/php"
 	],
-	"last_version": 3143,
-	"last_window_id": 32,
+	"last_version": 3126,
+	"last_window_id": 29,
 	"log_indexing": false,
 	"settings":
 	{
@@ -17,166 +17,6 @@
 				"selected_items":
 				[
 					[
-						"iss",
-						"isStart2FlightPayLoadQuery"
-					],
-					[
-						"ma",
-						"margin-top"
-					],
-					[
-						"le",
-						"length"
-					],
-					[
-						"tem",
-						"tempList"
-					],
-					[
-						"lis",
-						"queryList"
-					],
-					[
-						"seta",
-						"selectTab"
-					],
-					[
-						"tre",
-						"true"
-					],
-					[
-						"st",
-						"startFlightDate"
-					],
-					[
-						"bo",
-						"border"
-					],
-					[
-						"boboti",
-						"border-bottom-right-radius"
-					],
-					[
-						"boto",
-						"border-top-right-radius"
-					],
-					[
-						"bora",
-						"border-bottom-left-radius"
-					],
-					[
-						"boddr",
-						"border-top-left-radius"
-					],
-					[
-						"for",
-						"for\tfor (…) {…}"
-					],
-					[
-						"u",
-						"userName"
-					],
-					[
-						"fos",
-						"font-size"
-					],
-					[
-						"fol",
-						"float"
-					],
-					[
-						"ti",
-						"timeLeft"
-					],
-					[
-						"getti",
-						"getTimeLeft"
-					],
-					[
-						"wid",
-						"width"
-					],
-					[
-						"w",
-						"weight"
-					],
-					[
-						"fle",
-						"flex-direction"
-					],
-					[
-						"di",
-						"display"
-					],
-					[
-						"de",
-						"departureAirport"
-					],
-					[
-						"dat",
-						"data"
-					],
-					[
-						"c",
-						"center"
-					],
-					[
-						"pa",
-						"padding-right"
-					],
-					[
-						"wi",
-						"width"
-					],
-					[
-						"ali",
-						"align-items"
-					],
-					[
-						"js",
-						"justify-content"
-					],
-					[
-						"fons",
-						"font-size"
-					],
-					[
-						"sp",
-						"space-between"
-					],
-					[
-						"fon",
-						"font-weight"
-					],
-					[
-						"bor",
-						"border-radius"
-					],
-					[
-						"mat",
-						"margin-top"
-					],
-					[
-						"to",
-						"top"
-					],
-					[
-						"co",
-						"color"
-					],
-					[
-						"li",
-						"line-height"
-					],
-					[
-						"fl",
-						"float"
-					],
-					[
-						"al",
-						"align-items"
-					],
-					[
 						"th",
 						"that"
 					],
@@ -187,6 +27,14 @@
 					[
 						"tea",
 						"text-anchor"
+					],
+					[
+						"c",
+						"column"
+					],
+					[
+						"w",
+						"width"
 					],
 					[
 						"re",
@@ -229,16 +77,16 @@
 			"command_palette":
 			{
 				"height": 357.0,
-				"last_filter": "remo",
+				"last_filter": "ins",
 				"selected_items":
 				[
 					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
 						"ins",
 						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
 					],
 					[
 						"wx",
@@ -261,7 +109,7 @@
 						"Package Control: List Packages"
 					]
 				],
-				"width": 398.0
+				"width": 838.0
 			},
 			"console":
 			{
@@ -281,50 +129,10 @@
 			},
 			"file_history":
 			[
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadAdd/flightPayLoadAdd.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoad/flightPayLoad.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadAdd/flightPayLoadAdd.wxml",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoad/flightPayLoad.wxml",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/utils/airport.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/selectAirport/selectAirport.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/selectAirport/selectAirport.wxml",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadQuery/flightPayLoadQuery.wxml",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/home/home.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/index/index.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/home/home.wxml",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/app.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoad/flightPayLoad.wxss",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadAdd/flightPayLoadAdd.wxss",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/manifestTakePhoto/manifestTakePhoto.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadQuery/flightPayLoadQuery.wxss",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/home/home.wxss",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/待做任务.txt",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadQuery/flightPayLoadQuery.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/requests/request.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/requests/api.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/app.json",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/utils/util.js",
-				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/app.wxss",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/uldInwardAndOutwardPort/uldInwardAndOutwardPort.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/uldOperationManagement/uldOperationManagement.js",
-				"/D/Android/workspace/WxMiniProgram/huadong_del/pages/index/index.wxml",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadQuery/flightPayLoadQuery.json",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadAdd/flightPayLoadAdd.json",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoad/flightPayLoad.json",
-				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/pages/profile/profile.wxss",
-				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/pages/list/list.js",
-				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/pages/list/list.wxss",
-				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/待做任务.txt",
-				"/D/Android/workspace/WxMiniProgram/wx_shop/pages/shop/mall/mall.wxml",
-				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/pages/profile/profile.js",
-				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/pages/list/list.wxml",
-				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/app.json",
-				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/pages/index/index.js",
-				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/requests/request.js",
-				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/pages/profile/profile.wxml",
 				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/requests/api.js",
 				"/D/Android/workspace/WxMiniProgram/wx_shop/pages/shop/mall/mall.wxss",
 				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/pages/detail/detail.js",
+				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/pages/list/list.js",
 				"/D/Android/workspace/php/explore_ufo2/vendor/laravel/framework/src/Illuminate/Support/helpers.php",
 				"/D/Android/workspace/php/explore_ufo2/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php",
 				"/D/Android/workspace/php/explore_ufo2/app/Exceptions/Handler.php",
@@ -342,7 +150,7 @@
 			],
 			"find":
 			{
-				"height": 23.0
+				"height": 48.0
 			},
 			"find_in_files":
 			{
@@ -356,19 +164,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"GetUldType",
-					"Toast",
-					"toast",
-					"item-main",
-					"addFlight",
-					"selectItemTab",
-					"selectTab",
-					"json",
-					"requests",
-					"airportFn",
-					"230",
-					"426383",
-					"touchE",
 					"url",
 					"switch",
 					"refresh-text",
@@ -391,7 +186,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 23.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -405,7 +200,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 42.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -439,7 +234,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 258.0,
+			"side_bar_width": 237.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -455,80 +250,8 @@
 				"selected_items":
 				[
 					[
-						"iss",
-						"isStart2FlightPayLoadQuery"
-					],
-					[
 						"ma",
-						"margin-top"
-					],
-					[
-						"le",
-						"length"
-					],
-					[
-						"tem",
-						"tempList"
-					],
-					[
-						"lis",
-						"queryList"
-					],
-					[
-						"seta",
-						"selectTab"
-					],
-					[
-						"tre",
-						"true"
-					],
-					[
-						"st",
-						"startFlightDate"
-					],
-					[
-						"bo",
-						"border"
-					],
-					[
-						"boboti",
-						"border-bottom-right-radius"
-					],
-					[
-						"boto",
-						"border-top-right-radius"
-					],
-					[
-						"bora",
-						"border-bottom-left-radius"
-					],
-					[
-						"boddr",
-						"border-top-left-radius"
-					],
-					[
-						"for",
-						"for\tfor (…) {…}"
-					],
-					[
-						"u",
-						"userName"
-					],
-					[
-						"fos",
-						"font-size"
-					],
-					[
-						"fol",
-						"float"
-					],
-					[
-						"ti",
-						"timeLeft"
-					],
-					[
-						"getti",
-						"getTimeLeft"
+						"margin-left"
 					],
 					[
 						"wid",
@@ -565,6 +288,10 @@
 					[
 						"wi",
 						"width"
+					],
+					[
+						"bo",
+						"bottom"
 					],
 					[
 						"ali",
@@ -663,19 +390,19 @@
 			"buffers":
 			[
 				{
-					"file": "/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/selectAirport/selectAirport.wxml",
+					"file": "/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadQuery/flightPayLoadQuery.wxss",
 					"settings":
 					{
-						"buffer_size": 1363,
+						"buffer_size": 1703,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoad/flightPayLoad.js",
+					"file": "/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/utils/util.js",
 					"settings":
 					{
-						"buffer_size": 12140,
+						"buffer_size": 1224,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -684,16 +411,7 @@
 					"file": "/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadQuery/flightPayLoadQuery.js",
 					"settings":
 					{
-						"buffer_size": 3559,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoad/flightPayLoad.json",
-					"settings":
-					{
-						"buffer_size": 39,
+						"buffer_size": 1264,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -702,18 +420,18 @@
 					"file": "/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadQuery/flightPayLoadQuery.wxml",
 					"settings":
 					{
-						"buffer_size": 4040,
+						"buffer_size": 4064,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/selectAirport/selectAirport.wxss",
+					"file": "/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/app.json",
 					"settings":
 					{
-						"buffer_size": 1608,
+						"buffer_size": 833,
 						"encoding": "UTF-8",
-						"line_ending": "Windows"
+						"line_ending": "Unix"
 					}
 				}
 			],
@@ -778,40 +496,49 @@
 			"expanded_folders":
 			[
 				"/D/Android/workspace/WxMiniProgram",
-				"/D/Android/workspace/WxMiniProgram/wx-PriceCalendar",
-				"/D/Android/workspace/WxMiniProgram/wx-PriceCalendar/pages",
-				"/D/Android/workspace/WxMiniProgram/wx-PriceCalendar/pages/dateSelect"
+				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp",
+				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/pages",
+				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/pages/detail",
+				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/pages/list",
+				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/requests",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/editUldInwardAndOutwardPortRecords",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoad",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadAdd",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadQuery",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/home",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/index",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/manifestTakePhoto",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/requests",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/utils"
 			],
 			"file_history":
 			[
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadAdd/flightPayLoadAdd.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoad/flightPayLoad.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadAdd/flightPayLoadAdd.wxml",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoad/flightPayLoad.wxml",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/utils/airport.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/selectAirport/selectAirport.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/selectAirport/selectAirport.wxml",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadQuery/flightPayLoadQuery.wxml",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/home/home.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/index/index.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/home/home.wxml",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/app.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoad/flightPayLoad.wxss",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadAdd/flightPayLoadAdd.wxss",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/manifestTakePhoto/manifestTakePhoto.js",
 				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadQuery/flightPayLoadQuery.wxss",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/home/home.wxss",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoad/flightPayLoad.wxss",
 				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/待做任务.txt",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadQuery/flightPayLoadQuery.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/requests/request.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/requests/api.js",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/app.json",
-				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/utils/util.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoad/flightPayLoad.wxml",
 				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/app.wxss",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoad/flightPayLoad.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadQuery/flightPayLoadQuery.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadAdd/flightPayLoadAdd.wxss",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/requests/request.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadAdd/flightPayLoadAdd.wxml",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadAdd/flightPayLoadAdd.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/utils/util.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/requests/api.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/app.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/home/home.wxml",
 				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/uldInwardAndOutwardPort/uldInwardAndOutwardPort.js",
 				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/uldOperationManagement/uldOperationManagement.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/home/home.wxss",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/home/home.js",
 				"/D/Android/workspace/WxMiniProgram/huadong_del/pages/index/index.wxml",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/index/index.js",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/app.json",
 				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadQuery/flightPayLoadQuery.json",
+				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadQuery/flightPayLoadQuery.wxml",
 				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadAdd/flightPayLoadAdd.json",
 				"/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoad/flightPayLoad.json",
 				"/D/Android/workspace/WxMiniProgram/Feichangxian-wxapp/pages/profile/profile.wxss",
@@ -845,7 +572,7 @@
 			],
 			"find":
 			{
-				"height": 23.0
+				"height": 34.0
 			},
 			"find_in_files":
 			{
@@ -859,15 +586,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"GetUldType",
-					"Toast",
-					"toast",
-					"item-main",
-					"addFlight",
-					"selectItemTab",
-					"selectTab",
-					"json",
-					"requests",
 					"airportFn",
 					"230",
 					"426383",
@@ -901,54 +619,52 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/selectAirport/selectAirport.wxml",
+							"file": "/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadQuery/flightPayLoadQuery.wxss",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1363,
+								"buffer_size": 1703,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1363,
-										1363
+										1151,
+										1151
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 855.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoad/flightPayLoad.js",
+							"file": "/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/utils/util.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 12140,
+								"buffer_size": 1224,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1966,
-										1966
+										1221,
+										1221
 									]
 								],
 								"settings":
@@ -958,10 +674,10 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 280.0,
+								"translation.y": 450.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
@@ -970,15 +686,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 3559,
+								"buffer_size": 1264,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2182,
-										2182
+										603,
+										603
 									]
 								],
 								"settings":
@@ -988,100 +704,65 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 900.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 0,
 							"type": "text"
 						},
 						{
 							"buffer": 3,
-							"file": "/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoad/flightPayLoad.json",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 39,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 4,
 							"file": "/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/flightPayLoadQuery/flightPayLoadQuery.wxml",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 4040,
+								"buffer_size": 4064,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1324,
-										1324
+										913,
+										913
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
 								},
-								"translation.x": 19.0,
-								"translation.y": 585.0,
+								"translation.x": 0.0,
+								"translation.y": 1170.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 3,
 							"type": "text"
 						},
 						{
-							"buffer": 5,
-							"file": "/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/pages/selectAirport/selectAirport.wxss",
+							"buffer": 4,
+							"file": "/D/Android/workspace/WxMiniProgram/HnaCargoWxApp/app.json",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1608,
+								"buffer_size": 833,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1606,
-										1606
+										64,
+										64
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/CSS/CSS.sublime-syntax",
-									"tab_size": 2,
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 810.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 4,
@@ -1092,7 +773,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 23.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -1107,18 +788,11 @@
 						0,
 						1,
 						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.5,
 					1.0
 				],
 				"rows":
@@ -1133,11 +807,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,2,-32000,-32000,-1,-1,688,150,150,806",
+			"position": "0,2,3,-1,-1,-1,-1,688,150,150,806",
 			"project": "",
 			"replace":
 			{
-				"height": 42.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1175,7 +849,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 258.0,
+			"side_bar_width": 319.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
