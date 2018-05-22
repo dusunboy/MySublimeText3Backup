@@ -1,11 +1,5 @@
 {
-	"color_scheme": "Packages/MyColorScheme/My.tmTheme",
-	"ignored_packages":
-	[
-		"0_package_control_loader",
-		"Package Control",
-		"Vintage"
-	],
+	"color_scheme": "Packages/MyColorScheme/My.tmTheme",	
 	"preview_on_click": true,
 	"save_on_focus_lost": true,
 	"tab_size": 2,
